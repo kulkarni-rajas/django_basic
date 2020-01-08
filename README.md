@@ -1,4 +1,6 @@
 # Shop
+## A very basic web app that lists items available in the shop
+### Build with the help of tutorial video by Mosh on Python Course including Django
 ![Python Versions](https://img.shields.io/pypi/pyversions/django.svg?style=flat)
 <br>
 ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)<br>
